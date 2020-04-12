@@ -1,3 +1,3 @@
 # Miao-A-SongHao-Probability-Theory-Notes
 
-## 极大似然估计
+## P67 极大似然估计
