@@ -1,5 +1,9 @@
 # Miao-A-SongHao-Probability-Theory-Notes
 
+## 协方差
+- `Cov = E[(X - min(X))(Y - mean(Y))]`
+  - 协方差代表俩个变量同向变化的程度
+
 ## P66 矩估计法
 ### 点估计
 
